@@ -4,6 +4,7 @@ This is my personal portfolio website where I share my educational background an
 The site includes:
  <h1>PERSONAL INFORMATION</h1>
 ![mercy jerop](https://github.com/user-attachments/assets/7e113933-a812-418e-842c-17b63ea15444)
+
 Mercy Jerop
 
 19 years ·
