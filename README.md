@@ -20,8 +20,7 @@ EDUCATION BACKGROUND
     I pursued my secondary education at SING'ORE GIRLS (Its a catholic school in Elgeyo Marakwet County
 
 singore girlsis a christian centred school,lead by good christian principles.It was established in the year 1954 by christian missionaries of the holy rosary.<br/>
-</p> 
-<p>
+
 ![meru university](https://github.com/user-attachments/assets/57430a7b-fc3c-4daa-aec1-8a740d84cabd)    
 Currently at Meru University of Science and Technology, pursuing a Bachelor's degree in Information Technology (1st year).
 ##live website
