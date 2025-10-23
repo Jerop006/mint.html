@@ -1,11 +1,10 @@
 #Mercy's Personal Website
- This is my personal website where  I share my background in education 
- ##About
- -my highschool and university education
- -photos and personal highlights
- -my contact information
- 
- [view website](https://jerop006.github.io/mint.html/)
+ PERSONAL INFORMATION
+ Mercy Jerop
+ 19 years 
+ kenyan
+ Born on 23 july 2006 in Eldoret
+ Sin
  ##Built with
  -HTML
  ##Author
