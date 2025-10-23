@@ -1,13 +1,11 @@
 #Mercy's Personal Website
  This is my personal website where  I share my background in education 
-
  ##About
- The site includes:
- -my highschool and university details
- -photos
+ -my highschool and university education
+ -photos and personal highlights
  -my contact information
- ##Live site
- [view website](https://jerop006.github.io/)
+ 
+ [view website](https://jerop006.github.io/mint.html/)
  ##Built with
  -HTML
  ##Author
